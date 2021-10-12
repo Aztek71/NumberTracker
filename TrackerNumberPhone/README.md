@@ -61,4 +61,4 @@ If you find it useful, you can give it a star and share with your fellow peers o
 
 Credits
 -----------
-All the credits to [aztek71](github.com/aztek71)
+All the credits to [Aztek71](github.com/Aztek71)
