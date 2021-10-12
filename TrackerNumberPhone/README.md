@@ -25,6 +25,15 @@ To successful run this demo application you're required to havesome few librarie
 $~ pip3 install python-tk, pycountry, phone-iso3166
 ```
 
+**Otherwise :**
+```bash
+$ pip install -r requirements.txt
+```
+or
+```bash
+$ python -m pip install -r requirements.txt
+```
+
 **WIndow installation** 
 
 For window you do the same as for linux just without *python-tk* since it come by default with python installation 
@@ -52,4 +61,4 @@ If you find it useful, you can give it a star and share with your fellow peers o
 
 Credits
 -----------
-All the credits to [kalebu](github.com/kalebu)
+All the credits to [aztek71](github.com/aztek71)
