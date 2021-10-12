@@ -12,7 +12,7 @@ First of all just clone the repository using git command or using by clicking do
 
 ```bash 
 $-> git clone https://github.com/Aztek71/NumberTracker.git
-$-> cd Python-phonenumber-tracker-App
+$-> cd TrackerNumberPhone
 $ Python-phonenumber-tracker-App-> 
 ```
 
