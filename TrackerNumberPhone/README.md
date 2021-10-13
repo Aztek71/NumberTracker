@@ -25,7 +25,7 @@ To successful run this demo application you're required to havesome few librarie
 $~ pip3 install python-tk, pycountry, phone-iso3166
 ```
 
-**Otherwise :**
+**Otherwise for Windows :**
 ```bash
 $ pip install -r requirements.txt
 ```
